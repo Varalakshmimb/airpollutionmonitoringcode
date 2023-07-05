@@ -1,0 +1,14 @@
+The key components of the Air Pollution Monitoring System are MQ135, Arduino board, OLED Display, LEDs, and buzzer. 
+The MQ135 is one type of gas sensor that can sense NH3, NOx, alcohol, Benzene, smoke, CO2, and some other gases, these gases are harmful to human health.
+Arduino is the main microcontroller board of this system. The gas sensor continuously measures air quality and sends data to the Arduino board.
+Then Arduino prints air quality value on the OLED display in the PPM unit. The LEDs and Buzzer used as indicators, that indicates the air quality is in good, Poor, or dangerous zone.Arduino Nano	1
+MQ135 Gas Sensor	1
+0.96 inch I2C OLED display	1
+Green LED	1
+Red LED	1
+Buzzer	1
+220 ohm  Resistor	2
+Slide Switch	1
+9V Battery with Battery connector	1
+PCB Zero board	1
+Connecting wires	
